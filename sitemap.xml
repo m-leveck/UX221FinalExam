@@ -2,17 +2,32 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/cookie-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/easter-egg-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tie-dye-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/bird-house-painting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/bracelet-making-kit/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/sample-page/
         </loc>
     </url>
     <url>
