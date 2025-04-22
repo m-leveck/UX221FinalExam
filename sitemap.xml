@@ -32,7 +32,27 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/bracelet-charms/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/bracelet-chain/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/bracelet-making-kit/
         </loc>
     </url>
     <url>
