@@ -7,11 +7,14 @@ Template:       twentytwentyfive
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 h1 {
-    color: palevioletred
+    color: palevioletred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 h2 {
-    color: lightblue
+    color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-body{
-    color:lightseagreen
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightseagreen
 }
