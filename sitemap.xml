@@ -47,12 +47,72 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/bird-house/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/paint/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/tie-dye/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/elastics/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/food-colouring/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/easter-stickers/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sprinkles/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/piping-bag/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/products-category/bracelet-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/bird-house-painting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/easter-egg-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/tie-dye-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/cookie-making-kit/
         </loc>
     </url>
     <url>
